@@ -7,7 +7,7 @@ using namespace std;
 
 //function prototypes
 void pressEnterToContinue();
-int readFromFile(string filename);
+int readFromFile(string filename);a
 
 int main()
 {
